@@ -13,7 +13,7 @@
 <summary>About Me</summary>
 <br><br>
 <span>
-  <a href="https://junia3.github.io">
+  <a href="https://JaeHyungL2.github.io">
     <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
   </a>
 </span>
