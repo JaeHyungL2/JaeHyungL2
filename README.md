@@ -11,6 +11,7 @@
 <br>
 <!-- My CV/resume -->
 <details>
+    .
 <summary>About Me</summary>
 <br><br>
 <span>
